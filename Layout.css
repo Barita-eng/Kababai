@@ -1,0 +1,10 @@
+*{
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Navigator_Bar{
+    display: flex;
+    align-items: Center;
+    padding: 20px;
+}
